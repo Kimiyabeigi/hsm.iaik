@@ -1,0 +1,13 @@
+Use the following command to install in maven
+************************************************************************
+mvn install:install-file "-Dfile=iaikPkcs11Wrapper_1.6.2.jar" "-DgroupId=ir.parsasharif"
+"-DartifactId=iaik-pkcs11-wrapper" "-Dversion=1.6.2" "-Dpackaging=jar" "-DgeneratePom=true"
+
+
+After installation, use the following script in your pom
+***********************************************************
+<dependency>
+    <groupId>ir.parsasharif</groupId>
+    <artifactId>iaik-pkcs11-wrapper</artifactId>
+    <version>1.6.2</version>
+</dependency>

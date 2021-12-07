@@ -1,0 +1,25 @@
+
+9
+java:S3010&"#Remove this assignment of "slotID".(•ˆ‹£
+L
+java:S2696R"6Make the enclosing method "static" or remove this set.(ŸÇÓ³
+:
+java:S2129œ"Remove this "Long" constructor(€„¯ˆùÿÿÿÿ
+:
+java:S2129¿"Remove this "Long" constructor(£ÍÆœøÿÿÿÿ
+i	java:S100²"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Ê¤õüÿÿÿÿ
+M
+java:S2696¹"6Make the enclosing method "static" or remove this set.(•ˆ‹£
+Z
+java:S1128"=Remove this unused import 'javax.xml.bind.DatatypeConverter'.(Õ¾ƒú8à¹Ï¯×/
+g	java:S117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¤æ®
+@
+java:S2629Ë"$Invoke method(s) only conditionally.(»ìÌŸûÿÿÿÿ
+@
+java:S2629Ô"$Invoke method(s) only conditionally.(®í‚øşÿÿÿÿ
+@
+java:S2629Û"$Invoke method(s) only conditionally.(§ºøÿÿÿÿ
+@
+java:S2629ó"$Invoke method(s) only conditionally.(»ìÌŸûÿÿÿÿ
+@
+java:S2629ÿ"$Invoke method(s) only conditionally.(¢õİĞşÿÿÿÿ
